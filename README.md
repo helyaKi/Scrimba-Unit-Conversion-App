@@ -1,6 +1,6 @@
 # Unit Conversion App
 
-A simple and interactive web application to convert units of **Length**, **Volume**, and **Mass** between **Metric** and **Imperial Unit** systems. The app automatically adjusts input font sizes for better visibility when entering large numbers.
+A simple and interactive web application to convert units of _Length_, _Volume_, and _Mass_ between **Metric** and **Imperial Unit** systems. The app automatically adjusts input font sizes for better visibility when entering large numbers.
 
 ## Features
 
